@@ -8,51 +8,68 @@
 
 <div align="center">
   
-### *Frontend Enthusiast | Learning Machine Learning*
+### *Data Science Intern | ML Learner | Frontend + Backend Developer*
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ReactJS-Frontend-blue?style=for-the-badge" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/TypeScript-informational?style=for-the-badge" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge" alt="Python"/>
+  <img src="https://img.shields.io/badge/Machine-Learning-success?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Data%20Pipelines-SQL-yellow?style=for-the-badge" alt="Data Pipelines"/>
+  <img src="https://img.shields.io/badge/ReactJS-Frontend-informational?style=for-the-badge" alt="ReactJS"/>
 </div>
 
 <br>
 
 ## 🔍 Currently Exploring
 
-- React + Redux for building scalable UIs
-- TypeScript and Next.js
-- Basics of Machine Learning (supervised & unsupervised models)
-- Building small ML projects like price prediction, spam detection, etc.
+- Building end-to-end machine learning projects (e.g., regression, classification)
+- Creating data pipelines with SQL and Python
+- Improving frontend skills with React, Tailwind
+- Learning production ML deployment techniques
 
+## 💡 Summary
+
+A detail-oriented Computer Science undergrad at MNIT Jaipur with experience in building full-stack applications and a growing passion for data science and machine learning. I enjoy using code and data to build smart, scalable solutions. Recently interned in analytics and cybersecurity, and actively building ML projects using Python and scikit-learn.
 
 ## 💼 Skills
 
-- **Frontend:** ReactJS, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS
-- **Tools:** Git, VS Code, NPM, REST APIs
-- **Learning:** TypeScript, Machine Learning (scikit-learn, pandas, matplotlib)
+- **Languages:** Python, C++, JavaScript, SQL, HTML/CSS
+- **ML/DS Tools:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
+- **Frontend:** ReactJS, Tailwind CSS, Bootstrap
+- **Databases:** MySQL, MongoDB, Firebase
+- **Tools:** Git, VS Code, Node.js, Jupyter Notebook
 
+## 🛠️ Projects
 
-## 🔧 Projects
+- 🚀 **[Skyforcaster](https://github.com/kevinpoonia/Skyforcaster)** – Weather App using JS + OpenWeather API
+- 💰 **[Expenso](https://github.com/kevinpoonia/Expenso)** – Expense Tracker using PHP + MySQL
+- 📊 **House Price Predictor** – Regression ML model in Python
+- 🛡️ **Spam Message Classifier** – Binary classification using NLP techniques
+- ✅ **To-Do App** – Frontend productivity app using React + Redux
 
-- **Portfolio Website** – Responsive website using React, Tailwind
-- **To-Do App** – With Redux and localStorage
-- **Mini ML Projects** – Spam classifier, House price predictor using Python & scikit-learn
+## 🧑‍💻 Experience
 
+- **Deloitte Data Analytics Intern** – Created Tableau dashboards and Excel-based analysis
+- **TCS Cybersecurity Intern** – Worked on IAM policy design and secure access control docs
+
+## 📈 Achievements
+
+- AIR 2063 in JEE Mains 2021 (among 1M+ students)
+- Solved 1000+ coding problems on LeetCode, GFG, CodeChef
+- Student coordinator at Inter-NIT event with 500+ attendees
 
 ## 🌐 Connect With Me
 
-- LinkedIn: [vishal-poonia-52917824a](https://www.linkedin.com/in/vishal-poonia-52917824a)
-- Email: 2021ucp1177@mnit.ac.in
-- Instagram: [@kevin_poonia](https://instagram.com/kevin_poonia)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vishal-poonia-52917824a)
+- 📬 2021ucp1177@mnit.ac.in
+- 🖥️ [Portfolio](https://kevinpoonia.github.io/portfolio/)
+- 💻 [GitHub](https://github.com/kevinpoonia)
 
 ---
 
 <div align="center">
-  <i>"Frontend first, AI next — always building and learning."</i>
+  <i>"Blending engineering, data, and curiosity to create intelligent solutions."</i>
 </div>
